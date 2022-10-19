@@ -2,7 +2,7 @@
 
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
-Modificacion de readme
+Modificacion de rama1
 
 So, you want to use git, right? 
 
