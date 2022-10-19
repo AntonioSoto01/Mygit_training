@@ -4,6 +4,8 @@
 
 Modificacion de readme
 
+He cambiado algo
+
 So, you want to use git, right? 
 
 Te he metido un virus lol
